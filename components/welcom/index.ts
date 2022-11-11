@@ -1,0 +1,1 @@
+export {Welcom} from './welcom';
